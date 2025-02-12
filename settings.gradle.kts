@@ -19,4 +19,4 @@ dependencyResolutionManagement {
 rootProject.name = "compose_shimmer"
 include(":app")
 include(":shimmer")
-include(":shared")
+includ)
